@@ -1,0 +1,17 @@
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.csprojAssemblyReference.cache
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.Properties.Resources.resources
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.csproj.GenerateResource.cache
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.csproj.CoreCompileInputs.cache
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\mydb.db
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\WinFormsNetFwSqlRedo.exe.config
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\WinFormsNetFwSqlRedo.exe
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\WinFormsNetFwSqlRedo.pdb
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\Dapper.dll
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\System.Data.SQLite.dll
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\Dapper.xml
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\bin\Debug\System.Data.SQLite.xml
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.csproj.CopyComplete
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.exe
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.pdb
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.Form1.resources
+F:\Standalone Projects\C# .NET\WinFormsNetFwSqlRedo\WinFormsNetFwSqlRedo\obj\Debug\WinFormsNetFwSqlRedo.Form2.resources
